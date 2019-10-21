@@ -15,5 +15,5 @@ Configure IP address source and destination.
 
 How to start test:    (background processing)
 
-* nohup trafgen --dev enp1s0 --conf big_packge.txf.txf -V -k 100 --cpus 1 &
+* nohup trafgen --dev enp1s0 --conf big_packge.txf -V -k 100 --cpus 1 &
 
