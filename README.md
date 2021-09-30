@@ -2,7 +2,7 @@
 <h1 align="center"> Generate Traffic</h1>
 
 <h3 align="center">
-    🔗 SHELL LINUX
+    🔗 File txf
 </h3>
 
 <h3 align="center">
